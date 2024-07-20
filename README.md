@@ -1,7 +1,6 @@
-## Hi there 
-<a href="#"><img src="wave.gif" width="1.5px"></a>
-<a href="#"><h1 align="center">I'am Hamed Abdollahi</h1>
-<img src="Zonisamide3Dan.gif" width="30px"><p align="center">
+## 
+<a href="#"></a>
+<a href="#"><h1 align="center">Hi there <img src="wave.gif" width="1.5px">I'am Hamed Abdollahi</h1>
 <a href="#"><img width="60%" height="auto" src="EF-G,_mRNA,_and_tRNAs_in_POST_state_PDB_4W29.gif" height="175px"/></a>
 </p>
 <!--
