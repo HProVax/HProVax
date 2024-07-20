@@ -8,12 +8,12 @@
   -- Molecular Biology Research<br>
   -- Generating insights into molecular networks<br>
   -- Research on zoonotic viral infections.<br>
-- 🤔 I’can assiste you in pushing forward:
-  -- PCR methods & Sequensing and Data Analysis.<br>
-  -- Cell culture, Virology, Serology.<br>
-  -- Vaccine and Drug Target Design. <br>
-  -- Programing and High-throughput Data Analysis<br>
-  -- Utilizing Machine Learning and Deep Learning in Molecular and Structural Biology.<br> 
-- 💬 Ask me about Veterinary Medicine, Zoonotic Diseases, Genomics, Proteomics, Proteins, and Computational Biology.<br>
+- 🤔 I can assist you in advancing:
+  -- PCR methods, sequencing, and data analysis<br>
+  -- Cell culture, virology, and serology<br>
+  -- Vaccine and drug target design<br>
+  -- Programming and high-throughput data analysis<br>
+  -- Utilizing machine learning and deep learning in molecular and structural biology<br>
+- 💬 Ask me about R, BioPython, Linux, Veterinary Medicine, Zoonotic Diseases, Genomics, Proteomics, Proteins, and Computational Biology.<br>
 - 📫 How to reach me: <a href="mailto:ha25@mailbox.sc.edu">ha25@mailbox.sc.edu</a><br>
 - 😄 Pronouns: He/Him
