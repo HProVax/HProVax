@@ -8,7 +8,7 @@
   -- Molecular Biology Research<br>
   -- Generating insights into molecular networks<br>
   -- Research on zoonotic viral infections.<br>
-- 🤔 I can assist you in advancing:
+- 🤔 I can assist you in advancing:<br>
   -- PCR methods, sequencing, and data analysis<br>
   -- Cell culture, virology, and serology<br>
   -- Vaccine and drug target design<br>
