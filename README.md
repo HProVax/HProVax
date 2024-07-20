@@ -5,15 +5,15 @@
 - 🔭 I’m currently a Genomics Postdoctoral Fellow.<br>
 - 🌱 I’m working at the Department of Computer Science and Engineering, University of South Carolina.<br>
 - 🤝 I’m looking to collaborate on:<br> 
-  -- Molecular Biology Research<br>
-  -- Generating insights into molecular networks<br>
+  -- Molecular Biology Research.<br>
+  -- Generating insights into molecular networks.<br>
   -- Research on zoonotic viral infections.<br>
 - 🤔 I can assist you in advancing:<br>
-  -- PCR methods, sequencing, and data analysis<br>
-  -- Cell culture, virology, and serology<br>
-  -- Vaccine and drug target design<br>
-  -- Programming and high-throughput data analysis<br>
-  -- Utilizing machine learning and deep learning in molecular and structural biology<br>
+  -- PCR methods, sequencing, and data analysis.<br>
+  -- Cell culture, virology, and serology.<br>
+  -- Vaccine and drug target design.<br>
+  -- Programming and high-throughput data analysis.<br>
+  -- Utilizing machine learning and deep learning in molecular and structural biology.<br>
 - 💬 Ask me about R, BioPython, Linux, Veterinary Medicine, Zoonotic Diseases, Genomics, Proteomics, Proteins, and Computational Biology.<br>
 - 📫 How to reach me: <a href="mailto:ha25@mailbox.sc.edu">ha25@mailbox.sc.edu</a><br>
 - 😄 Pronouns: He/Him
