@@ -1,14 +1,14 @@
-<h1 align="center">Hi there<img src="wave.gif" width="30px">I'am Hamed Abdollahi.</h1>
-<p align="center"><a href="#"><img width="60%" height="auto" src="EF-G,_mRNA,_and_tRNAs_in_POST_state_PDB_4W29.gif" height="175px"/></a>
-</p>
-## 🙋‍♂️ About Me
-- 🔭 I’m currently Genomics Postdoctoral Fellow.<br>
-- 🌱 I’m currently working at Department of Computer Science and Engineering UofSC.<br>
-- 👯 I’m looking to collaborate on:<br> 
--- The Laboratory of Molecular Biology<br>
--- To generate insight in molecular networks<br>
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Zoonotic Disease, Genomics, Proteomics, Proteins, Computational Biology 
-- 📫 How to reach me: <p><mailto:ha25@mailbox.sc.edu></p>
+<h1 align="center">Hi there! <img src="wave.gif" width="30px"> I'm Hamed Abdollahi.</h1>
+<p align="center"><a href="#"><img width="60%" height="auto" src="EF-G,_mRNA,_and_tRNAs_in_POST_state_PDB_4W29.gif" height="175px"/></a></p>
+
+## 🙋‍♂️ About Me<br>
+- 🔭 I’m currently a Genomics Postdoctoral Fellow.<br>
+- 🌱 I’m working at the Department of Computer Science and Engineering, University of South Carolina.<br>
+- 🤝 I’m looking to collaborate on:<br> 
+  -- Molecular Biology Research<br>
+  -- Generating insights into molecular networks<br>
+  -- Research on zoonotic viral infections.<br>
+- 🤔 I’m seeking assistance with ...<br>
+- 💬 Ask me about Veterinary Medicine, Zoonotic Diseases, Genomics, Proteomics, Proteins, and Computational Biology.<br>
+- 📫 How to reach me: <a href="mailto:ha25@mailbox.sc.edu">ha25@mailbox.sc.edu</a><br>
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
