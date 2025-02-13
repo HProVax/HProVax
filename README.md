@@ -7,7 +7,7 @@
 - 🤝 I’m looking to collaborate on:<br> 
   -- Molecular Biology Research.<br>
   -- Generating insights into molecular networks.<br>
-  -- Research on zoonotic viral infections & Cancer.<br>
+  -- Research on zoonotic viral infections & cancer.<br>
 - 🤔 I can assist you in advancing:<br>
   -- PCR methods, sequencing, and data analysis.<br>
   -- Cell culture, virology, and serology.<br>
