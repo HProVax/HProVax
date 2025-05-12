@@ -16,6 +16,6 @@
   -- Utilizing machine learning and deep learning in molecular and structural biology.<br>
 - 💬 Ask me about R, BioPython, Linux, Veterinary Medicine, Zoonotic Diseases, Genomics, Proteomics, Proteins, and Computational Biology.<br>
 - 📫 How to reach me: <a href="mailto:ha25@mailbox.sc.edu">ha25@mailbox.sc.edu</a><br>
--     WEBSITE: <a href="https://hprovax.github.io/hamed.github.io/">HPROVAX_Website</a><br>
--     Linkedin: <a href="https://www.linkedin.com/in/hamed-abdollahi-15117079/">Linkedin</a>
+- WEBSITE: <a href="https://hprovax.github.io/hamed.github.io/">HPROVAX_Website</a><br>
+-Linkedin: <a href="https://www.linkedin.com/in/hamed-abdollahi-15117079/">Linkedin</a>
 - 😄 Pronouns: He/Him
