@@ -2,11 +2,12 @@
 <p align="center"><a href="#"><img width="60%" height="auto" src="EF-G,_mRNA,_and_tRNAs_in_POST_state_PDB_4W29.gif" height="175px"/></a></p>
 
 ## 🙋‍♂️ About Me:<br>
-- 🔭 I’m currently a Genomics Postdoctoral Fellow.<br>
+- 🔭 I’m currently a Postdoctoral Fellow.<br>
 - 🌱 I’m working at the Department of Computer Science and Engineering, University of South Carolina.<br>
 - 🤝 I’m looking to collaborate on:<br> 
   -- Molecular Biology Research.<br>
   -- Generating insights into molecular networks.<br>
+  -- AI & machine learning application in biomedical
   -- Research on zoonotic viral infections & cancer.<br>
 - 🤔 I can assist you in advancing:<br>
   -- PCR methods, sequencing, and data analysis.<br>
